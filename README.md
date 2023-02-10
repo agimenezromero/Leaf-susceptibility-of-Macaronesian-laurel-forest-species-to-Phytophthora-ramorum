@@ -1,7 +1,7 @@
 # Leaf-susceptibility-of-Macaronesian-laurel-forest-species-to-Phytophthora-ramorum
 This is the code used in the paper entitled "Leaf susceptibility of Macaronesian laurel forest species to Phytophthora ramorum".
 
-The functions used to compute the climatic suitability (which are very easy to implement) can be found in the second cell of the `Example` jupyter notebook provided in the repository.
+The functions used to compute the climatic suitability (which are very easy to implement) can be found in the second cell of the `Example.ipynb` notebook provided in the repository.
 
 # Example
 
